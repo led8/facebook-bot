@@ -16,6 +16,11 @@ gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
 
+### Gem added for facebook bot ###
+gem 'sinatra'
+gem 'facebook-messenger'
+gem 'httparty'
+
 group :development do
   gem 'web-console', '>= 3.3.0'
 end
